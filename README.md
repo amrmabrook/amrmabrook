@@ -22,4 +22,30 @@
   <br>
   <img src="https://skillicons.dev/icons?i=bootstrap,sass,tailwind,git,github,vscode" />
   <br />
+<br />
+
+## 📂 Projects
+
+<table>
+  <thead align="center">
+    <tr>
+      <td><b>💻 Project</b></td>
+      <td><b>🌐 Live Demo</b></td>
+      <td><b>📦 Repository</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>🍴 Forks</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>📝 TODO-LIST</td>
+      <td><a href="https://amrmabrook.github.io/TODO-LIST/">Live Demo</a></td>
+      <td><a href="https://github.com/amrmabrook/TODO-LIST">GitHub Repo</a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/amrmabrook/TODO-LIST?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/amrmabrook/TODO-LIST?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    
+  </tbody>
+</table>
+    
 </div>
