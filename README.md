@@ -9,10 +9,6 @@
     <a href="https://github.com/amrmabrook">GitHub</a> - 
     <a href="https://www.linkedin.com/in/amr-mabrook-8384bb395/">LinkedIn</a> 
 </p>
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=amrmabrook&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="amrmabrook" /> 
-</p>
   
 <br>
 
@@ -22,7 +18,6 @@
   <br>
   <img src="https://skillicons.dev/icons?i=bootstrap,sass,tailwind,git,github,vscode" />
   <br />
-<br />
 
 ## 📂 Projects
 
