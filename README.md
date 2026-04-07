@@ -40,10 +40,19 @@
     <tr>
       <td>📝 TODO-LIST</td>
       <td><a href="https://amrmabrook.github.io/TODO-LIST/">Live Demo</a></td>
-      <td><a href="https://github.com/amrmabrook/TODO-LIST">GitHub Repo</a></td>
+         <td><a href="https://github.com/amrmabrook/TODO-LIST">GitHub Repo</a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/amrmabrook/TODO-LIST?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/amrmabrook/TODO-LIST?style=flat-square&labelColor=343b41"/></td>
     </tr>
+
+<tr>
+  <td>📝 CRUD System</td>
+  <td><a href="https://amrmabrook.github.io/CURD-SYSTEM/">Live Demo</a></td>
+  <td><a href="https://github.com/amrmabrook/CURD-SYSTEM">GitHub Repo</a></td>
+  <td><img alt="Stars" src="https://img.shields.io/github/stars/amrmabrook/CURD-SYSTEM?style=flat-square&labelColor=343b41"/></td>
+  <td><img alt="Forks" src="https://img.shields.io/github/forks/amrmabrook/CURD-SYSTEM?style=flat-square&labelColor=343b41"/></td>
+</tr>
+
     
   </tbody>
 </table>
