@@ -7,7 +7,7 @@
 
 <p align="center">
     <a href="https://github.com/amrmabrook">GitHub</a> - 
-    <a href="https://www.linkedin.com/in/amr-mabrook-633bb124a/">LinkedIn</a> 
+    <a href="https://www.linkedin.com/in/amr-mabrook-8384bb395/">LinkedIn</a> 
 </p>
 
 <p align="left"> 
