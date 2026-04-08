@@ -47,8 +47,13 @@
   <td><img alt="Stars" src="https://img.shields.io/github/stars/amrmabrook/CURD-SYSTEM?style=flat-square&labelColor=343b41"/></td>
   <td><img alt="Forks" src="https://img.shields.io/github/forks/amrmabrook/CURD-SYSTEM?style=flat-square&labelColor=343b41"/></td>
 </tr>
-
-    
+<tr>
+<td>📝 Quiz Application</td>
+<td><a href="https://amrmabrook.github.io/Quiz-application/">Live Demo</a></td>
+<td><a href="https://github.com/amrmabrook/Quiz-application">GitHub Repo</a></td>
+<td><img alt="Stars" src="https://img.shields.io/github/stars/amrmabrook/Quiz-application?style=flat-square&labelColor=343b41"/></td>
+<td><img alt="Forks" src="https://img.shields.io/github/forks/amrmabrook/Quiz-application?style=flat-square&labelColor=343b41"/></td>
+</tr>
   </tbody>
 </table>
     
